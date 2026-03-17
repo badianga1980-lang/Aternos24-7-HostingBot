@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "ThiccSMP Bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "thiccsmp.aternos.me",
